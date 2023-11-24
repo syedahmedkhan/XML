@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<studentlist>
+
+  <student>
+    <name>Zia</name>
+    <id>14762</id>
+    <course>ADSC</course>
+    <Fees>9000</Fees>
+  </student>
+
+  <student>
+    <name>Hassan</name>
+    <id>14763</id>
+    <course>ADSC</course>
+    <Fees>9000</Fees>
+  </student>
+
+  <student>
+    <name>saad</name>
+    <id>14764</id>
+    <course>ADSC</course>
+    <Fees>9000</Fees>
+  </student>
+
+  <student>
+    <name>Taha</name>
+    <id>14764</id>
+    <course>ADSC</course>
+    <Fees>9000</Fees>
+  </student>
+
+  <student>
+    <name>Umer</name>
+    <id>14764</id>
+    <course>ADSC</course>
+    <Fees>9000</Fees>
+  </student>
+  
+</studentlist>

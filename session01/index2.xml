@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<productlist>
+
+     <product id="addidas-1">
+     <name> T-Shirt</name>
+     <prise> 1500</prise>
+     <brand> Addidas </brand>
+     </product>
+
+     <product id="nike-2">
+     <name> T-Shirt</name>
+     <prise> 1000</prise>
+     <brand> Nike </brand>
+     </product>
+
+     <product id="pumma-3">
+     <name> T-Shirt</name>
+     <prise> 2500</prise>
+     <brand> pumma </brand>
+     </product>
+
+      <product id="outfitters-4">
+     <name> T-Shirt</name>
+     <prise> 800</prise>
+     <brand> outfitters </brand>
+     </product>
+
+      <product id="addidas-5">
+     <name> T-Shirt</name>
+     <prise> 1800</prise>
+     <brand> Addidas </brand>
+     </product>
+
+
+
+
+
+
+
+
+
+</productlist>
